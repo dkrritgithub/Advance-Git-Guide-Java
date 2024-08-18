@@ -1,0 +1,1 @@
+"The Advanced Git Guide: Git Stash, Reset, Rebase, and More" 
